@@ -1,4 +1,5 @@
-# Moodmeme-fullstack-website
+# Moodmeme
+
 MoodMeme 🎵😆
 
 MoodMeme is a simple and fun web project made with HTML, CSS, and JavaScript, where clicking on different images plays different sounds. It’s an interactive soundboard-style web app designed for quick laughs and entertainment!
